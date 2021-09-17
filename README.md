@@ -36,7 +36,7 @@ The following files are located in this repository:
 7. Create a presentation to translate the analysis into insights to be presented to the executives.
 
 #### Contributors
-Michael Ajayi
-Ely Lin
-Teigen Olson
+Michael Ajayi\
+Ely Lin\
+Teigen Olson\
 Louis Casanave 
